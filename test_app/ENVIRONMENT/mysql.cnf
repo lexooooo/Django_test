@@ -1,0 +1,4 @@
+[client]
+user = test
+password = asdasdasd
+database = test_base

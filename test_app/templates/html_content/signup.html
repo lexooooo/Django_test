@@ -1,0 +1,10 @@
+<div>
+    <h1>
+        {% csrf_token %}
+        <form ACTION={{action}} METHOD="POST">
+            <input type="text" placeholder="username" name="username"/>
+            <input type="password" placeholder="password" name="password"/>
+            <input text="submit" type="submit"/>
+        </form>
+    </h1>
+</div>

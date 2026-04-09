@@ -1,0 +1,61 @@
+INFO:root:(2002, "Can't connect to server on '128.0.0.1' (10060)")
+INFO:root:(2002, "Can't connect to server on '128.0.0.1' (10060)")
+INFO:C:\Users\lexok\Desktop\django\test\test.py:CONNECTED
+INFO:C:\Users\lexok\Desktop\django\test\test.py:(2002, "Can't connect to server on '128.0.0.1' (10060)")
+INFO:C:\Users\lexok\Desktop\django\test\test.py:(2002, "Can't connect to server on '128.0.0.1' (10060)")
+PRINT TO LOGS FILE
+
+
+
+PRINT TO LOGS FILE
+(1045, "Access denied for user 'testt'@'localhost' (using password: YES)")
+PRINT TO LOGS FILE
+(1045, "Access denied for user 'testt'@'localhost' (using password: YES)")
+(1049, "Unknown database 'logins'")
+(1049, "Unknown database 'logins'")
+(1049, "Unknown database 'logins'")
+(1049, "Unknown database 'logins'")
+CONNECTED
+CONNECTED
+CONNECTED
+CONNECTED
+CONNECTED
+CONNECTED
+<class 'int'>
+<class 'int'>
+(5, 'name', 'pass')
+((5, 'name', 'pass'),)
+(5, 'name', 'pass')
+None
+NOT FOUND
+NOT FOUND
+None
+None
+None
+None
+None
+(5, 'name', 'pass')
+(5, 'name', 'pass')
+None
+NOT FOUND
+NOT FOUND
+NOT FOUND
+(5, 'name', 'pass')
+(5, 'name', 'pass')
+(5, 'name', 'pass')
+(2002, "Can't connect to server on '128.0.0.1' (10060)")
+(5, 'name', 'pass')
+(2002, "Can't connect to server on '128.0.0.1' (10060)")
+(2002, "Can't connect to server on '128.0.0.1' (10060)")
+(2002, "Can't connect to server on '128.0.0.1' (138)")
+(2002, "Can't connect to server on '128.0.0.1' (138)")
+CONNECTION FAILRD
+{}
+({'host': '128.0.0.1', 'port': 3306, 'user': 'test', 'password': 'asdasdasd', 'database': 'test_base', 'connect_timeout': 3},)
+{}
+{'host': '128.0.0.1', 'port': 3306, 'user': 'test', 'password': 'asdasdasd', 'database': 'test_base', 'connect_timeout': 3}
+{'host': '128.0.0.1', 'port': 3306, 'user': 'test', 'password': 'asdasdasd', 'database': 'test_base', 'connect_timeout': 3}
+(2002, "Can't connect to server on '128.0.0.1' (138)")
+CONNECTION FAILRD
+{'host': '127.0.0.1', 'port': 3306, 'user': 'test', 'password': 'asdasdasd', 'database': 'test_base', 'connect_timeout': 3}
+(5, 'name', 'pass')

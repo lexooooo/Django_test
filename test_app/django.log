@@ -1,0 +1,33 @@
+
+
+
+INFO 2026-04-07 21:25:28,376 __views___ ========================/signup
+INFO 2026-04-07 21:25:28,376 __views___ MUST NOT HAPPEN TWISE
+[2026-04-07 21:25:28,377] INFO uvicorn.access: 127.0.0.1:8041 - "GET /signup HTTP/1.1" 200
+[2026-04-07 21:25:47,443] WARNING uvicorn.error: StatReload detected changes in 'test_app\settings.py'. Reloading...
+[2026-04-07 21:25:47,450] INFO uvicorn.error: Shutting down
+[2026-04-07 21:25:47,558] INFO uvicorn.error: Finished server process [10828]
+RESPONSE HAPPENED
+RESPONSE HAPPENED
+[2026-04-07 21:25:48,011] INFO uvicorn.error: Started server process [4696]
+[2026-04-07 21:25:48,011] INFO uvicorn.error: Waiting for application startup.
+[2026-04-07 21:25:48,012] INFO uvicorn.error: ASGI 'lifespan' protocol appears unsupported.
+[2026-04-07 21:25:48,012] INFO uvicorn.error: Application startup complete.
+[2026-04-07 21:25:49,276] INFO uvicorn.error: Shutting down
+[2026-04-07 21:25:49,385] INFO uvicorn.error: Finished server process [4696]
+[2026-04-07 21:25:49,436] INFO uvicorn.error: Stopping reloader process [388]
+[2026-04-07 21:25:51,391] INFO uvicorn.error: Will watch for changes in these directories: ['C:\\Users\\lexok\\Desktop\\django\\test_app']
+[2026-04-07 21:25:51,391] WARNING uvicorn.error: "workers" flag is ignored when reloading is enabled.
+[2026-04-07 21:25:51,391] INFO uvicorn.error: Uvicorn running on http://0.0.0.0:3001 (Press CTRL+C to quit)
+[2026-04-07 21:25:51,391] INFO uvicorn.error: Started reloader process [7404] using StatReload
+[2026-04-07 21:25:51,765] INFO uvicorn.error: Started server process [20408]
+[2026-04-07 21:25:51,765] INFO uvicorn.error: Waiting for application startup.
+[2026-04-07 21:25:51,765] INFO uvicorn.error: ASGI 'lifespan' protocol appears unsupported.
+[2026-04-07 21:25:51,765] INFO uvicorn.error: Application startup complete.
+INFO 2026-04-07 21:25:56,223 __views___ ========================/signup
+INFO 2026-04-07 21:25:56,223 __views___ MUST NOT HAPPEN TWISE
+[2026-04-07 21:25:56,234] INFO uvicorn.access: 127.0.0.1:8062 - "GET /signup HTTP/1.1" 200
+[2026-04-07 21:35:05,254] INFO uvicorn.error: Shutting down
+[2026-04-07 21:35:05,366] INFO uvicorn.error: Finished server process [20408]
+RESPONSE HAPPENED
+[2026-04-07 21:35:05,406] INFO uvicorn.error: Stopping reloader process [7404]

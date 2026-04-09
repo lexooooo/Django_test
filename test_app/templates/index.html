@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Doc</title>
+        <link rel="stylesheet" href="{% static 'style.css' %}">
+    </head>
+    <body>
+        <h1>MAIN PAGE</h1>
+        <input type="text" placeholder="ENTER HERE"/>
+        <br/>
+        <div>
+            {{content|safe}}
+        </div>
+    </body>
+</html>
