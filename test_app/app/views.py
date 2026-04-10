@@ -65,10 +65,6 @@ def sign_up(request):
         response["Content-Type"] = "text/plain"
         return response
     else:
-        logger.info(f"========================{request.path}")
-        
-        logger.info("MUST NOT HAPPEN TWISE")
-        
         # logger.info("WRONT METHOD")
         # ### IF METHOD IS GET, REDIRECT TO HOME PAGE
         # return redir_to_home(request)

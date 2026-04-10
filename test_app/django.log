@@ -31,3 +31,14 @@ INFO 2026-04-07 21:25:56,223 __views___ MUST NOT HAPPEN TWISE
 [2026-04-07 21:35:05,366] INFO uvicorn.error: Finished server process [20408]
 RESPONSE HAPPENED
 [2026-04-07 21:35:05,406] INFO uvicorn.error: Stopping reloader process [7404]
+[2026-04-09 21:27:10,610] INFO uvicorn.error: Will watch for changes in these directories: ['C:\\Users\\lexok\\Desktop\\django\\test_app']
+[2026-04-09 21:27:10,610] WARNING uvicorn.error: "workers" flag is ignored when reloading is enabled.
+[2026-04-09 21:27:10,610] INFO uvicorn.error: Uvicorn running on http://0.0.0.0:3001 (Press CTRL+C to quit)
+[2026-04-09 21:27:10,611] INFO uvicorn.error: Started reloader process [8812] using StatReload
+[2026-04-09 21:27:11,310] INFO uvicorn.error: Started server process [2484]
+[2026-04-09 21:27:11,310] INFO uvicorn.error: Waiting for application startup.
+[2026-04-09 21:27:11,310] INFO uvicorn.error: ASGI 'lifespan' protocol appears unsupported.
+[2026-04-09 21:27:11,310] INFO uvicorn.error: Application startup complete.
+[2026-04-09 21:27:33,306] INFO uvicorn.error: Shutting down
+[2026-04-09 21:27:33,419] INFO uvicorn.error: Finished server process [2484]
+[2026-04-09 21:27:33,473] INFO uvicorn.error: Stopping reloader process [8812]
